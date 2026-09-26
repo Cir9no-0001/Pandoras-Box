@@ -1,8 +1,13 @@
 # Old-Macros-and-Exploits
 
 ## ToggleClicker.py
+
 - 'ToggleClicker.py' was built to use the AM-180 SA from State of Anarchy (RIP SOA); can't guarantee this macro works on other games
 - This was coded when I was in 10th/11th grade, so don't expect much...
+
+## instagram_unsender_1.js
+
+- Useless unvaulted script since I already made Katharsis
 
 ## License
 
