@@ -9,6 +9,10 @@
 
 - Useless unvaulted script since I already made Katharsis
 
+## Bulk_favorites_manager series
+
+- Useless unvaulted scripts for Mangadex I think? ┐(´ー｀)┌
+
 ## License
 
 This project is licensed under a custom All Rights Reserved license.
